@@ -1,0 +1,7 @@
+name: MOTDs
+main: com.denesgarda.MOTDs.Main
+version: 1.0
+description: MOTDs plugin
+commands:
+  reloadmotds:
+    description: Reloads motds and config

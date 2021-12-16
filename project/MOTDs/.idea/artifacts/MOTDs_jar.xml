@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MOTDs:jar">
+    <output-path>$PROJECT_DIR$/../../builds</output-path>
+    <root id="archive" name="MOTDs.jar">
+      <element id="module-output" name="MOTDs" />
+    </root>
+  </artifact>
+</component>
