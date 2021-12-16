@@ -9,7 +9,7 @@ import java.util.Arrays;
 public class MOTDs {
     private final String path;
 
-    public String[] MOTDs = null;
+    public String[] MOTDs = {};
 
     public MOTDs(String path) {
         this.path = path;
